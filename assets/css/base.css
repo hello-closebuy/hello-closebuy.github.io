@@ -1,0 +1,14 @@
+:root {
+  font-family: 'Josefin Sans', sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 20px;
+  color: #283c4f;
+}
+
+hr {
+  border: 0px;
+  border-top: 1px solid #283c4f;
+}

@@ -9,6 +9,9 @@
 *~
 *.sass-cache
 
+vendor
+.jekyll-cache
+
 # OS or Editor folders
 .DS_Store
 .cache

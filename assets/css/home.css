@@ -11,6 +11,12 @@ header {
   margin-right: 1ch;
 }
 
+.intro .download img {
+  height: 60px;
+  margin-right: 5px;
+  width: auto;
+}
+
 .about-app {
   flex-shrink: 0;
   margin-right: 10px;
